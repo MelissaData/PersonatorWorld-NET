@@ -31,7 +31,7 @@ If you do not, please contact sales (800-800-6245 ext. 3) for a trial.
 
 ### Installing
 
-No installation is necessary for this sample project. Simply open the PersonatorWorld-NET-REST.sln file in your Visual Studio.
+No installation is necessary for this sample project. Simply open the .sln file in your Visual Studio.
 
 
 ## Running the Sample
